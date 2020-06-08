@@ -1,8 +1,8 @@
-from Library.UnixConnect import UnixConnect
-from Library.FileOps import FileOps
-from Library.DBOps import DBOps
-from Library.Compare import Compare
-from Library.ReadConfig import ReadConfig
+from keywords.UnixConnect import UnixConnect
+from keywords.FileOps import FileOps
+from keywords.DBOps import DBOps
+from keywords.Compare import Compare
+from keywords.ReadConfig import ReadConfig
 import os
 
 
