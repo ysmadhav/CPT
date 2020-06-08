@@ -1,0 +1,10 @@
+urllib3==1.25.6
+requests==2.23.0
+robot==20071211
+robotframework==3.1.2
+numpy==1.17.3
+pandas==0.25.2
+datacompy==0.6.0
+teradatasql==17.0.0.1
+paramiko==2.7.1
+PyYAML==5.3.1

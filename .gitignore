@@ -1,3 +1,6 @@
 Reports/
 Results/
 .idea
+*__pycache__*
+.idea/*
+venv/

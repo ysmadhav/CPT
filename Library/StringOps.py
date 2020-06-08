@@ -1,6 +1,8 @@
+from robot.api.deco import keyword
+
 
 class StringOps:
 
-    @staticmethod
-    def join_two_strings(arg1, arg2):
+    @keyword
+    def join_two_strings(self, arg1: str, arg2: str) -> str:
         return arg1 + " CPT " + arg2
